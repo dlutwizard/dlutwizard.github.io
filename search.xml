@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>关于创建博客的一点想法</title>
-    <url>/2023/11/02/message1/</url>
-    <content><![CDATA[<p> 其实我本人并无记录一些东西的习惯，最初我是没有建立博客的想法的。但是随着时间推移我发现许多学过的东西一段时间就会慢慢忘记，我觉得有必要记录一下曾经也耗费我许多时间去学习的一些知识（虽然现在可能看上去没用）。我会更多把这个博客当作一个记录我学习经历的地方，我会把我当初学习遇到的疑惑重述。希望也可以给一些刚接触这方面的新人一些帮助吧。博客也会不定期更新，我涉猎的范围比较广，我会分类，有需要自行查阅。</p>
-]]></content>
-      <tags>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2023/11/02/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
@@ -26,5 +17,14 @@
 
 <p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>关于创建博客的一点想法</title>
+    <url>/2023/11/02/message1/</url>
+    <content><![CDATA[<p> 其实我本人并无记录一些东西的习惯，最初我是没有建立博客的想法的。但是随着时间推移我发现许多学过的东西一段时间就会慢慢忘记，我觉得有必要记录一下曾经也耗费我许多时间去学习的一些知识（虽然现在可能看上去没用）。我会更多把这个博客当作一个记录我学习经历的地方，我会把我当初学习遇到的疑惑重述。希望也可以给一些刚接触这方面的新人一些帮助吧。博客也会不定期更新，我涉猎的范围比较广，我会分类，有需要自行查阅。</p>
+]]></content>
+      <tags>
+        <tag>博客</tag>
+      </tags>
   </entry>
 </search>
