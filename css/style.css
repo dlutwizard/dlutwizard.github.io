@@ -135,7 +135,7 @@
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -143,7 +143,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -165,7 +165,7 @@
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -184,7 +184,7 @@
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -192,7 +192,7 @@
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -214,7 +214,7 @@
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -234,7 +234,7 @@
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -242,7 +242,7 @@
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -283,7 +283,7 @@
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -291,7 +291,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -313,7 +313,7 @@
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -331,7 +331,7 @@
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -339,7 +339,7 @@
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -379,7 +379,7 @@
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -387,7 +387,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -409,7 +409,7 @@
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -428,7 +428,7 @@
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -436,7 +436,7 @@
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -458,7 +458,7 @@
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -478,7 +478,7 @@
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -486,7 +486,7 @@
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -527,7 +527,7 @@
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -535,7 +535,7 @@
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -557,7 +557,7 @@
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -575,7 +575,7 @@
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -583,7 +583,7 @@
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1185,7 +1185,7 @@ button {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1193,7 +1193,7 @@ button {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1215,7 +1215,7 @@ button {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -1234,7 +1234,7 @@ button {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -1242,7 +1242,7 @@ button {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1264,7 +1264,7 @@ button {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -1284,7 +1284,7 @@ button {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -1292,7 +1292,7 @@ button {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1333,7 +1333,7 @@ button {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1341,7 +1341,7 @@ button {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1363,7 +1363,7 @@ button {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -1381,7 +1381,7 @@ button {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -1389,7 +1389,7 @@ button {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -1861,7 +1861,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -1869,7 +1869,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1891,7 +1891,7 @@ pre .deletion {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -1910,7 +1910,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -1918,7 +1918,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -1940,7 +1940,7 @@ pre .deletion {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -1960,7 +1960,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -1968,7 +1968,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2009,7 +2009,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2017,7 +2017,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2039,7 +2039,7 @@ pre .deletion {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2057,7 +2057,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -2065,7 +2065,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2219,7 +2219,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2227,7 +2227,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2249,7 +2249,7 @@ pre .deletion {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2268,7 +2268,7 @@ pre .deletion {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -2276,7 +2276,7 @@ pre .deletion {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2298,7 +2298,7 @@ pre .deletion {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2318,7 +2318,7 @@ pre .deletion {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -2326,7 +2326,7 @@ pre .deletion {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2367,7 +2367,7 @@ pre .deletion {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2375,7 +2375,7 @@ pre .deletion {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2397,7 +2397,7 @@ pre .deletion {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2415,7 +2415,7 @@ pre .deletion {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -2423,7 +2423,7 @@ pre .deletion {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2652,7 +2652,7 @@ html.is-animating .transition-fade {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2660,7 +2660,7 @@ html.is-animating .transition-fade {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2682,7 +2682,7 @@ html.is-animating .transition-fade {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2701,7 +2701,7 @@ html.is-animating .transition-fade {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -2709,7 +2709,7 @@ html.is-animating .transition-fade {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2731,7 +2731,7 @@ html.is-animating .transition-fade {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2751,7 +2751,7 @@ html.is-animating .transition-fade {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -2759,7 +2759,7 @@ html.is-animating .transition-fade {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -2800,7 +2800,7 @@ html.is-animating .transition-fade {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -2808,7 +2808,7 @@ html.is-animating .transition-fade {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -2830,7 +2830,7 @@ html.is-animating .transition-fade {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -2848,7 +2848,7 @@ html.is-animating .transition-fade {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -2856,7 +2856,7 @@ html.is-animating .transition-fade {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -3139,7 +3139,7 @@ html.is-animating .transition-fade {
   --waline-light-grey: #999;
   --waline-dark-grey: #666;
   --waline-theme-color: var(--primary-color);
-  --waline-active-color: #6d52d7;
+  --waline-active-color: #ff6f35;
   --waline-color: #444;
   --waline-bgcolor: #fff;
   --waline-bgcolor-light: #f8f8f8;
@@ -4430,7 +4430,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -4438,7 +4438,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4460,7 +4460,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -4479,7 +4479,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -4487,7 +4487,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4509,7 +4509,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -4529,7 +4529,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -4537,7 +4537,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -4578,7 +4578,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -4586,7 +4586,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -4608,7 +4608,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -4626,7 +4626,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -4634,7 +4634,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5113,7 +5113,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5121,7 +5121,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5143,7 +5143,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5162,7 +5162,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -5170,7 +5170,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5192,7 +5192,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5212,7 +5212,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -5220,7 +5220,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5261,7 +5261,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5269,7 +5269,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5291,7 +5291,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5309,7 +5309,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -5317,7 +5317,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5444,7 +5444,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5452,7 +5452,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5474,7 +5474,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5493,7 +5493,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -5501,7 +5501,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5523,7 +5523,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5543,7 +5543,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -5551,7 +5551,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5592,7 +5592,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5600,7 +5600,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5622,7 +5622,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5640,7 +5640,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -5648,7 +5648,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5845,7 +5845,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -5853,7 +5853,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5875,7 +5875,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5894,7 +5894,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -5902,7 +5902,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -5924,7 +5924,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -5944,7 +5944,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -5952,7 +5952,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -5993,7 +5993,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6001,7 +6001,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6023,7 +6023,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6041,7 +6041,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -6049,7 +6049,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6275,7 +6275,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6283,7 +6283,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6305,7 +6305,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6324,7 +6324,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -6332,7 +6332,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6354,7 +6354,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6374,7 +6374,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -6382,7 +6382,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6423,7 +6423,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6431,7 +6431,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6453,7 +6453,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6471,7 +6471,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -6479,7 +6479,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6828,7 +6828,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6836,7 +6836,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6858,7 +6858,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6877,7 +6877,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -6885,7 +6885,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -6907,7 +6907,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -6927,7 +6927,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -6935,7 +6935,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -6976,7 +6976,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -6984,7 +6984,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7006,7 +7006,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -7024,7 +7024,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -7032,7 +7032,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7163,7 +7163,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7171,7 +7171,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7193,7 +7193,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -7212,7 +7212,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -7220,7 +7220,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7242,7 +7242,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -7262,7 +7262,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -7270,7 +7270,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7311,7 +7311,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7319,7 +7319,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7341,7 +7341,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -7359,7 +7359,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -7367,7 +7367,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7570,7 +7570,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7578,7 +7578,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7600,7 +7600,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -7619,7 +7619,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -7627,7 +7627,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7649,7 +7649,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -7669,7 +7669,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -7677,7 +7677,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -7718,7 +7718,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -7726,7 +7726,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -7748,7 +7748,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -7766,7 +7766,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -7774,7 +7774,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -8017,7 +8017,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -8025,7 +8025,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8047,7 +8047,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8066,7 +8066,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -8074,7 +8074,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8096,7 +8096,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8116,7 +8116,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -8124,7 +8124,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -8165,7 +8165,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -8173,7 +8173,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8195,7 +8195,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8213,7 +8213,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -8221,7 +8221,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -8733,7 +8733,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -8741,7 +8741,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8763,7 +8763,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8782,7 +8782,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -8790,7 +8790,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8812,7 +8812,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8832,7 +8832,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -8840,7 +8840,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -8881,7 +8881,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -8889,7 +8889,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -8911,7 +8911,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -8929,7 +8929,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -8937,7 +8937,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -9031,7 +9031,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -9039,7 +9039,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -9061,7 +9061,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -9080,7 +9080,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -9088,7 +9088,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -9110,7 +9110,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -9130,7 +9130,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -9138,7 +9138,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -9179,7 +9179,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -9187,7 +9187,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -9209,7 +9209,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -9227,7 +9227,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -9235,7 +9235,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
@@ -9472,7 +9472,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -9480,7 +9480,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -9502,7 +9502,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -9521,7 +9521,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #fafafa;
     --third-background-color: #f7f7f7;
     --third-background-color-transparent: rgba(241,241,241,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #323739;
     --second-text-color: #343a3c;
     --third-text-color: #5c6669;
@@ -9529,7 +9529,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #373d3f;
     --invert-text-color: #bebec6;
     --border-color: rgba(0,0,0,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(0,0,0,0.08);
     --shadow-color-2: rgba(0,0,0,0.05);
     --shadow-hover-color: rgba(0,0,0,0.28);
@@ -9551,7 +9551,7 @@ html.is-animating .swup-progress-icon {
     --note-black-title-bg: #e9e9e9;
     --note-purple-title-bg: #f9e9fd;
     --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-    --home-banner-text-color: #ff5f1f;
+    --home-banner-text-color: #5d3fd3;
     --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
     --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
     --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -9571,7 +9571,7 @@ html.is-animating .swup-progress-icon {
     --second-background-color: #242529;
     --third-background-color: #292b2f;
     --third-background-color-transparent: rgba(32,33,36,0.6);
-    --primary-color: #5d3fd3;
+    --primary-color: #ff5f1f;
     --first-text-color: #d2d2d7;
     --second-text-color: #cbcbd1;
     --third-text-color: #9595a2;
@@ -9579,7 +9579,7 @@ html.is-animating .swup-progress-icon {
     --default-text-color: #bebec6;
     --invert-text-color: #373d3f;
     --border-color: rgba(255,255,255,0.08);
-    --selection-color: #6d52d7;
+    --selection-color: #ff6f35;
     --shadow-color-1: rgba(255,255,255,0.08);
     --shadow-color-2: rgba(255,255,255,0.05);
     --shadow-hover-color: rgba(69,69,69,0.28);
@@ -9620,7 +9620,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #fafafa;
   --third-background-color: #f7f7f7;
   --third-background-color-transparent: rgba(241,241,241,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #323739;
   --second-text-color: #343a3c;
   --third-text-color: #5c6669;
@@ -9628,7 +9628,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #373d3f;
   --invert-text-color: #bebec6;
   --border-color: rgba(0,0,0,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(0,0,0,0.08);
   --shadow-color-2: rgba(0,0,0,0.05);
   --shadow-hover-color: rgba(0,0,0,0.28);
@@ -9650,7 +9650,7 @@ html.is-animating .swup-progress-icon {
   --note-black-title-bg: #e9e9e9;
   --note-purple-title-bg: #f9e9fd;
   --home-banner-img: url("/images/wallhaven-wqery6-light.webp");
-  --home-banner-text-color: #ff5f1f;
+  --home-banner-text-color: #5d3fd3;
   --home-banner-icons-container-border-color: rgba(255,255,255,0.35);
   --home-banner-icons-container-background-color: rgba(255,255,255,0.3);
   --redefine-box-shadow: var(--shadow-color-2) 0px 6px 24px 0px, var(--shadow-color-1) 0px 0px 0px 1px;
@@ -9668,7 +9668,7 @@ html.is-animating .swup-progress-icon {
   --second-background-color: #242529;
   --third-background-color: #292b2f;
   --third-background-color-transparent: rgba(32,33,36,0.6);
-  --primary-color: #5d3fd3;
+  --primary-color: #ff5f1f;
   --first-text-color: #d2d2d7;
   --second-text-color: #cbcbd1;
   --third-text-color: #9595a2;
@@ -9676,7 +9676,7 @@ html.is-animating .swup-progress-icon {
   --default-text-color: #bebec6;
   --invert-text-color: #373d3f;
   --border-color: rgba(255,255,255,0.08);
-  --selection-color: #6d52d7;
+  --selection-color: #ff6f35;
   --shadow-color-1: rgba(255,255,255,0.08);
   --shadow-color-2: rgba(255,255,255,0.05);
   --shadow-hover-color: rgba(69,69,69,0.28);
