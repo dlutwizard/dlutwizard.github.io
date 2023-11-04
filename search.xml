@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>基于chatgpt-next-web项目搭建的本地化gpt-on-web</title>
+    <url>/2023/11/03/message2/</url>
+    <content><![CDATA[<p>借助github上开源的gpt项目本地部署web页面,一键部署专属于你的大语言模型。<br>利用docker进行部署，在这里介绍一下docker：<br>Docker 容器是一个开源的应用容器引擎，让开发者可以以统一的方式打包他们的应用以及依赖包到一个可移植的容器中，然后发布到任何安装了docker引擎的服务器上（包括流行的Linux机器、windows机器），也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口（类似 iPhone 的 app）。几乎没有性能开销,可以很容易地在机器和数据中心中运行。最重要的是,他们不依赖于任何语言、框架包括系统。而容器技术是和我们的宿主机共享硬件资源及操作系统，可以实现资源的动态分配。容器包含应用和其所有的依赖包，但是与其他容器共享内核。容器在宿主机操作系统中，在用户空间以分离的进程运行。<br>容器技术是实现操作系统虚拟化的一种途径，可以让您在资源受到隔离的进程中运行应用程序及其依赖关系。通过使用容器，我们可以轻松打包应用程序的代码、配置和依赖关系，将其变成容易使用的构建块，从而实现环境一致性、运营效率、开发人员生产力和版本控制等诸多目标。容器可以帮助保证应用程序快速、可靠、一致地部署，其间不受部署环境的影响。容器还赋予我们对资源更多的精细化控制能力，让我们的基础设施效率更高。</p>
+<p>这是相对官方的介绍，简单来说docker就是一种容器，和虚拟机一样是一种虚拟化技术。Docker将应用程序与运行需要的依赖环境打包到一个文件里这样运行这个文件就会产生一个虚拟容器，程序在这个虚拟容器里运行，就好像在真实的物理机上运行一样。有了 Docker ，就不用担心环境问题。这让我们在部署应用时非常方便。</p>
+<p>下面开始讲我们的部署方法：</p>
+<p>第一步，我们需要从云服务商获取一台云服务器，这里我用的是azure云的学生订阅，可以免费使用12个月的linux和windows虚拟机B1s各一台。我们首先创建虚拟机实例，我用的是ubuntu22.04。接下来部署docker环境:<br><endcode></p>
+<pre><code>                sudo apt install docker                        #默认会安装当前实例所支持的docker版本
+     
+</code></pre>
+<p>耐心等待安装完成，完成后我们可以用如下命令检测是否安装完成<endcode></p>
+<pre><code>                docker -v                                      #查看当前的docker版本
+</code></pre>
+<p>得到如下结果<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text1image1.png"
+                     
+                ></p>
+<p>安装完成下一步，拉取镜像<br><endcode></p>
+<pre><code>                docker pull yidadaa/chatgpt-next-web
+</code></pre>
+<p>这里如果出现permisson denied，我们需要在前面加上sudo<br><endcode></p>
+<pre><code>                sudo docker pull yidadaa/chatgpt-next-web
+</code></pre>
+<p>等待镜像拉取完成后，我们使用 如下命令查看是否拉取成功<br><endcode></p>
+<pre><code>                docker image ps
+</code></pre>
+<p>得到如下结果<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text1image2.png"
+                     
+                ></p>
+<p>OK,镜像拉取成功，下一步就是启动镜像<br><encode></p>
+<pre><code>                docker run -d -p 3000:3000 \        #端口号可以自行修改
+                    -e OPENAI_API_KEY=sk-xxxx \     #这里填入你自己的API
+                    -e CODE=your-password \         #网页访问的密码，可不填
+                    yidadaa/chatgpt-next-web
+</code></pre>
+<p>修改好之后我们使用如下命令检查镜像是否启用<br><endcode></p>
+<pre><code>                 docker ps        
+</code></pre>
+<p>得到如下结果<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text1image3.png"
+                     
+                ><br>此时我们就可以用浏览器去访问我们搭建好的web网页http:&#x2F;&#x2F;服务器的ip:3000，访问网页<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text1image4.png"
+                     
+                ><br>如何访问不了，那么你需要设置服务器的网络安全组策略，开放3000端口</p>
+<h4 id="关于APIKEY的获取"><a href="#关于APIKEY的获取" class="headerlink" title="关于APIKEY的获取"></a>关于APIKEY的获取</h4><p>对于没有注册openai账户的朋友，我们可以获取免费的api <a class="link"   href="https://github.com/chatanywhere/GPT_API_free" >https://github.com/chatanywhere/GPT_API_free <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>获取体验的API,然后按下面去填入<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text1image5.png"
+                     
+                ><br>接口地址填<a class="link"   href="http://api.chatanywhere.com.cn/" >http://api.chatanywhere.com.cn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>API KEY填入上面获取的API<br>然后我们可以测试一下是否成功,随便问一个问题<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text1image6.png"
+                     
+                ></p>
+<p>到这里我们就大功告成了！</p>
+]]></content>
+      <tags>
+        <tag>chatgpt</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于创建博客的一点想法</title>
     <url>/2023/11/02/message1/</url>
     <content><![CDATA[<p> 其实我本人并无记录一些东西的习惯，最初我是没有建立博客的想法的。但是随着时间推移我发现许多学过的东西一段时间就会慢慢忘记，我觉得有必要记录一下曾经也耗费我许多时间去学习的一些知识（虽然现在可能看上去没用）。我会更多把这个博客当作一个记录我学习经历的地方，我会把我当初学习遇到的疑惑重述。希望也可以给一些刚接触这方面的新人一些帮助吧。博客也会不定期更新，请根据分类自行查阅。</p>
