@@ -10,58 +10,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Zotero的安装与使用</title>
-    <url>/2023/11/07/message3/</url>
-    <content><![CDATA[<h4 id="Zotero的安装"><a href="#Zotero的安装" class="headerlink" title="Zotero的安装"></a>Zotero的安装</h4><p>我们在进行科研或者做一个项目时常常需要阅读大量文献，有一个好用便携的文献管理工具相当重要。我目前经常使用的是Zotero,相比于其他文献阅读工具如endnote等，Zotero使用起来更加舒服，并且界面也很好看。接下来进入正题，Zotero的安装：</p>
-<p>我们首先去到Zotero的官网下载地址 <a class="link"   href="https://www.zotero.org/download/" >https://www.zotero.org/download/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 在这里选择你所需要的版本去下载。然后根据提示一步步安装。这里需要注意，如果你选择默认的安装方式standard方式去进行安装，那么它会自动安装到c盘且路径无法修改。安装好之后打开，如果你打开是默认英文，那么需要去修改一下<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/../images/text2image1.png"
-                     
-                ></p>
-<p>修改完成后这里就算是安装成功了，在这里我推荐去官网注册一个账号，在后面我们会用到。</p>
-<h4 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h4><p>我们目前还无法直接从网上导入文献，需要在浏览器安装Zotero的插件<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/../images/text2image2.png"
-                     
-                ></p>
-<p>安装好之后启用插件，我们随便去一个学术网站试一下<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/../images/text2image3.png"
-                     
-                ></p>
-<p>这里我在谷歌学术，当上面的箭头指的地方变成黄色文件夹时，我们就可以点击扩展，然后会弹出图中的选项框，选择你想要导入的文献点击OK，此时文献就成功被我们导入到Zotero中了。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/../images/text2image4.png"
-                     
-                ></p>
-<p>左边的侧边栏会显示文献的一些信息，展开对应导入的条目之后就是文献的pdf。我们双击打开pdf就可以进行阅读了。初期的一些配置就已经完成了，在后续的博客中我会写一些有关Zotero插件的推荐与使用，可以帮助我们更高效的阅读文献。</p>
-<h4 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h4><p>如果我们在从浏览器导入时只有条目，却没有对应的pdf文章，那么我们需要在箭头的地方点进去修改<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/../images/text2image5.png"
-                     
-                ></p>
-<p>搜索findpdf<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/../images/text2image6.png"
-                     
-                ></p>
-<p>将括号中的内容修改为如下<br><endcode></p>
-<pre><code>&#123;     &quot;name&quot;:&quot;sci-hub&quot;,     &quot;method&quot;:&quot;GET&quot;,     &quot;url&quot;:&quot;https://sci-hub.st/&#123;doi&#125;&quot;,     &quot;mode&quot;:&quot;html&quot;,     &quot;selector&quot;:&quot;#pdf&quot;,     &quot;attribute&quot;:&quot;src&quot;,     &quot;automatic&quot;:true &#125;
-</code></pre>
-<p>进行保存，然后我们在去浏览器试一下，此时就可以下载对应条目的pdf文件了。</p>
-<p>本期内容到此结束。</p>
-]]></content>
-      <tags>
-        <tag>Zotero</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>基于chatgpt-next-web项目搭建的本地化gpt-on-web</title>
     <url>/2023/11/03/message2/</url>
     <content><![CDATA[<p>借助github上开源的gpt项目本地部署web页面,一键部署专属于你的大语言模型。<br>利用docker进行部署，在这里介绍一下docker：<br>Docker 容器是一个开源的应用容器引擎，让开发者可以以统一的方式打包他们的应用以及依赖包到一个可移植的容器中，然后发布到任何安装了docker引擎的服务器上（包括流行的Linux机器、windows机器），也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口（类似 iPhone 的 app）。几乎没有性能开销,可以很容易地在机器和数据中心中运行。最重要的是,他们不依赖于任何语言、框架包括系统。而容器技术是和我们的宿主机共享硬件资源及操作系统，可以实现资源的动态分配。容器包含应用和其所有的依赖包，但是与其他容器共享内核。容器在宿主机操作系统中，在用户空间以分离的进程运行。<br>容器技术是实现操作系统虚拟化的一种途径，可以让您在资源受到隔离的进程中运行应用程序及其依赖关系。通过使用容器，我们可以轻松打包应用程序的代码、配置和依赖关系，将其变成容易使用的构建块，从而实现环境一致性、运营效率、开发人员生产力和版本控制等诸多目标。容器可以帮助保证应用程序快速、可靠、一致地部署，其间不受部署环境的影响。容器还赋予我们对资源更多的精细化控制能力，让我们的基础设施效率更高。</p>
@@ -130,6 +78,83 @@
 ]]></content>
       <tags>
         <tag>chatgpt</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Zotero的安装与使用</title>
+    <url>/2023/11/07/message3/</url>
+    <content><![CDATA[<h4 id="Zotero的安装"><a href="#Zotero的安装" class="headerlink" title="Zotero的安装"></a>Zotero的安装</h4><p>我们在进行科研或者做一个项目时常常需要阅读大量文献，有一个好用便携的文献管理工具相当重要。我目前经常使用的是Zotero,相比于其他文献阅读工具如endnote等，Zotero使用起来更加舒服，并且界面也很好看。接下来进入正题，Zotero的安装：</p>
+<p>我们首先去到Zotero的官网下载地址 <a class="link"   href="https://www.zotero.org/download/" >https://www.zotero.org/download/ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 在这里选择你所需要的版本去下载。然后根据提示一步步安装。这里需要注意，如果你选择默认的安装方式standard方式去进行安装，那么它会自动安装到c盘且路径无法修改。安装好之后打开，如果你打开是默认英文，那么需要去修改一下<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text2image1.png"
+                     
+                ></p>
+<p>修改完成后这里就算是安装成功了，在这里我推荐去官网注册一个账号，在后面我们会用到。</p>
+<h4 id="如何使用"><a href="#如何使用" class="headerlink" title="如何使用"></a>如何使用</h4><p>我们目前还无法直接从网上导入文献，需要在浏览器安装Zotero的插件<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text2image2.png"
+                     
+                ></p>
+<p>安装好之后启用插件，我们随便去一个学术网站试一下<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text2image3.png"
+                     
+                ></p>
+<p>这里我在谷歌学术，当上面的箭头指的地方变成黄色文件夹时，我们就可以点击扩展，然后会弹出图中的选项框，选择你想要导入的文献点击OK，此时文献就成功被我们导入到Zotero中了。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text2image4.png"
+                     
+                ></p>
+<p>左边的侧边栏会显示文献的一些信息，展开对应导入的条目之后就是文献的pdf。我们双击打开pdf就可以进行阅读了。初期的一些配置就已经完成了，在后续的博客中我会写一些有关Zotero插件的推荐与使用，可以帮助我们更高效的阅读文献。</p>
+<h4 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h4><p>如果我们在从浏览器导入时只有条目，却没有对应的pdf文章，那么我们需要在箭头的地方点进去修改<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text2image5.png"
+                     
+                ></p>
+<p>搜索findpdf<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text2image6.png"
+                     
+                ></p>
+<p>将括号中的内容修改为如下<br><endcode></p>
+<pre><code>&#123;     &quot;name&quot;:&quot;sci-hub&quot;,     &quot;method&quot;:&quot;GET&quot;,     &quot;url&quot;:&quot;https://sci-hub.st/&#123;doi&#125;&quot;,     &quot;mode&quot;:&quot;html&quot;,     &quot;selector&quot;:&quot;#pdf&quot;,     &quot;attribute&quot;:&quot;src&quot;,     &quot;automatic&quot;:true &#125;
+</code></pre>
+<p>进行保存，然后我们在去浏览器试一下，此时就可以下载对应条目的pdf文件了。</p>
+<p>本期内容到此结束。</p>
+]]></content>
+      <tags>
+        <tag>Zotero</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Zoo for Zotero</title>
+    <url>/2023/11/10/message4/</url>
+    <content><![CDATA[<p>上一期我们讲到了在windows上的文献阅读软件Zotero的安装与配置，这一次我们来讲一下在移动端如何也利用Zotero进行更方便的文献阅读与记录。</p>
+<p>由于Zotero的官方是只有ipad版本，所以像我使用的华为平板并不能直接安装Zotero。我们需要用github上的一个开源应用Zoo for Zotero。<br><a class="link"   href="https://github.com/mickstar/Zoo-For-Zotero" >https://github.com/mickstar/Zoo-For-Zotero <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>但是这里需要到谷歌商店下载，所以我已经把下载好的放到了网盘中<br>链接：<a class="link"   href="https://pan.baidu.com/s/1CsyegarWm-7L4813xKMDgA" >https://pan.baidu.com/s/1CsyegarWm-7L4813xKMDgA <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>提取码：0423</p>
+<p>我们在平板上下载之后打开<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text3image1.jpg"
+                     
+                ></p>
+<p>这里选择第一个，然后输入自己的账号密码登录<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/../images/text3image2.jpg"
+                     
+                ></p>
+<p>这里选择Accept Defaults,然后等待几秒，同步数据完成后就可以了。</p>
+<p>最后就是网上很多教程使用xodo去进行pdf的编辑阅读，但是在我的平板我一般直接选择WPS去编辑阅读，所以这个可以根据个人需要选择。还有网上会用坚果云去进行同步，但是我这里并不需要坚果云就可以同步文档并查看，所以我就不讲坚果云的配置了。</p>
+<p>到这里我们就可以利用平板和手写笔进行文献的阅读编辑了。但是编辑的内容在电脑端仍然是不可见的，只能希望Zotero早日发布安卓版本吧。</p>
+]]></content>
+      <tags>
+        <tag>Zotero</tag>
       </tags>
   </entry>
 </search>
